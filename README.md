@@ -1,2 +1,14 @@
 # 2026worldcup-mweb-journal
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
